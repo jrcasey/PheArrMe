@@ -1,0 +1,281 @@
+medium	description	compound	name
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	glu__L	L-Glutamic Acid
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	ca2	Ca2+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	cl	Cl-
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	cobalt2	Co2+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	cu2	Cu2+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	fe2	Fe2+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	fe3	Fe3+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	h2o	H2O
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	h	H+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	k	K+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	mg2	Mg
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	mn2	Mn2+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	mobd	Molybdate
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	na1	Na+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	nh4	Ammonium
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	ni2	Ni2+
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	o2	O2
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	pi	Phosphate
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	so4	Sulfate
+glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	zn2	Zn2+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	glyc	Glycerol
+glyc_medium	M9 medium containing Glycerol as sole carbon source	ca2	Ca2+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	cl	Cl-
+glyc_medium	M9 medium containing Glycerol as sole carbon source	cobalt2	Co2+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	cu2	Cu2+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	fe2	Fe2+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	fe3	Fe3+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	h2o	H2O
+glyc_medium	M9 medium containing Glycerol as sole carbon source	h	H+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	k	K+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	mg2	Mg
+glyc_medium	M9 medium containing Glycerol as sole carbon source	mn2	Mn2+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	mobd	Molybdate
+glyc_medium	M9 medium containing Glycerol as sole carbon source	na1	Na+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	nh4	Ammonium
+glyc_medium	M9 medium containing Glycerol as sole carbon source	ni2	Ni2+
+glyc_medium	M9 medium containing Glycerol as sole carbon source	o2	O2
+glyc_medium	M9 medium containing Glycerol as sole carbon source	pi	Phosphate
+glyc_medium	M9 medium containing Glycerol as sole carbon source	so4	Sulfate
+glyc_medium	M9 medium containing Glycerol as sole carbon source	zn2	Zn2+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	lac__L	L-Lactic Acid
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	ca2	Ca2+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	cl	Cl-
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	cobalt2	Co2+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	cu2	Cu2+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	fe2	Fe2+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	fe3	Fe3+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	h2o	H2O
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	h	H+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	k	K+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	mg2	Mg
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	mn2	Mn2+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	mobd	Molybdate
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	na1	Na+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	nh4	Ammonium
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	ni2	Ni2+
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	o2	O2
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	pi	Phosphate
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	so4	Sulfate
+lac__L_medium	M9 medium containing L-Lactic Acid as sole carbon source	zn2	Zn2+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	mal__D	D,L-Malic Acid
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	ca2	Ca2+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	cl	Cl-
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	cobalt2	Co2+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	cu2	Cu2+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	fe2	Fe2+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	fe3	Fe3+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	h2o	H2O
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	h	H+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	k	K+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	mg2	Mg
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	mn2	Mn2+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	mobd	Molybdate
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	na1	Na+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	nh4	Ammonium
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	ni2	Ni2+
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	o2	O2
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	pi	Phosphate
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	so4	Sulfate
+mal__D_medium	M9 medium containing D,L-Malic Acid as sole carbon source	zn2	Zn2+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	ac	Acetic Acid
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	ca2	Ca2+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	cl	Cl-
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	cobalt2	Co2+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	cu2	Cu2+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	fe2	Fe2+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	fe3	Fe3+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	h2o	H2O
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	h	H+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	k	K+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	mg2	Mg
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	mn2	Mn2+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	mobd	Molybdate
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	na1	Na+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	nh4	Ammonium
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	ni2	Ni2+
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	o2	O2
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	pi	Phosphate
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	so4	Sulfate
+ac_medium	M9 medium containing Acetic Acid as sole carbon source	zn2	Zn2+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	fum	Fumaric Acid
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	ca2	Ca2+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	cl	Cl-
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	cobalt2	Co2+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	cu2	Cu2+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	fe2	Fe2+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	fe3	Fe3+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	h2o	H2O
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	h	H+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	k	K+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	mg2	Mg
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	mn2	Mn2+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	mobd	Molybdate
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	na1	Na+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	nh4	Ammonium
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	ni2	Ni2+
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	o2	O2
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	pi	Phosphate
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	so4	Sulfate
+fum_medium	M9 medium containing Fumaric Acid as sole carbon source	zn2	Zn2+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	ppa	Propionic Acid
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	ca2	Ca2+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	cl	Cl-
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	cobalt2	Co2+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	cu2	Cu2+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	fe2	Fe2+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	fe3	Fe3+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	h2o	H2O
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	h	H+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	k	K+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	mg2	Mg
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	mn2	Mn2+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	mobd	Molybdate
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	na1	Na+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	nh4	Ammonium
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	ni2	Ni2+
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	o2	O2
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	pi	Phosphate
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	so4	Sulfate
+ppa_medium	M9 medium containing Propionic Acid as sole carbon source	zn2	Zn2+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	mal__D	D-Malic Acid
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	ca2	Ca2+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	cl	Cl-
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	cobalt2	Co2+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	cu2	Cu2+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	fe2	Fe2+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	fe3	Fe3+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	h2o	H2O
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	h	H+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	k	K+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	mg2	Mg
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	mn2	Mn2+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	mobd	Molybdate
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	na1	Na+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	nh4	Ammonium
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	ni2	Ni2+
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	o2	O2
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	pi	Phosphate
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	so4	Sulfate
+mal__D_medium	M9 medium containing D-Malic Acid as sole carbon source	zn2	Zn2+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	mal__L	L-Malic Acid
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	ca2	Ca2+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	cl	Cl-
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	cobalt2	Co2+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	cu2	Cu2+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	fe2	Fe2+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	fe3	Fe3+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	h2o	H2O
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	h	H+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	k	K+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	mg2	Mg
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	mn2	Mn2+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	mobd	Molybdate
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	na1	Na+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	nh4	Ammonium
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	ni2	Ni2+
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	o2	O2
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	pi	Phosphate
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	so4	Sulfate
+mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	zn2	Zn2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	dextrin	Dextrin
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	ca2	Ca2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	cl	Cl-
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	cobalt2	Co2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	cu2	Cu2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe2	Fe2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe3	Fe3+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	h2o	H2O
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	h	H+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	k	K+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	mg2	Mg
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	mn2	Mn2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	mobd	Molybdate
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	na1	Na+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	nh4	Ammonium
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	ni2	Ni2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	o2	O2
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	pi	Phosphate
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	so4	Sulfate
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	zn2	Zn2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	but	Butyric Acid
+but_medium	M9 medium containing Butyric Acid as sole carbon source	ca2	Ca2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	cl	Cl-
+but_medium	M9 medium containing Butyric Acid as sole carbon source	cobalt2	Co2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	cu2	Cu2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	fe2	Fe2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	fe3	Fe3+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	h2o	H2O
+but_medium	M9 medium containing Butyric Acid as sole carbon source	h	H+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	k	K+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	mg2	Mg
+but_medium	M9 medium containing Butyric Acid as sole carbon source	mn2	Mn2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	mobd	Molybdate
+but_medium	M9 medium containing Butyric Acid as sole carbon source	na1	Na+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	nh4	Ammonium
+but_medium	M9 medium containing Butyric Acid as sole carbon source	ni2	Ni2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	o2	O2
+but_medium	M9 medium containing Butyric Acid as sole carbon source	pi	Phosphate
+but_medium	M9 medium containing Butyric Acid as sole carbon source	so4	Sulfate
+but_medium	M9 medium containing Butyric Acid as sole carbon source	zn2	Zn2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	tartr__L	L-Tartaric Acid
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ca2	Ca2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cl	Cl-
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cobalt2	Co2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cu2	Cu2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe2	Fe2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe3	Fe3+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h2o	H2O
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h	H+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	k	K+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mg2	Mg
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mn2	Mn2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mobd	Molybdate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	na1	Na+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	nh4	Ammonium
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ni2	Ni2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	o2	O2
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	pi	Phosphate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	so4	Sulfate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	zn2	Zn2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	leu__L	L-Leucine
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ca2	Ca2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cl	Cl-
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cobalt2	Co2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cu2	Cu2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe2	Fe2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe3	Fe3+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h2o	H2O
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h	H+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	k	K+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mg2	Mg
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mn2	Mn2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mobd	Molybdate
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	na1	Na+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	nh4	Ammonium
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ni2	Ni2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	o2	O2
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	pi	Phosphate
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	so4	Sulfate
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	zn2	Zn2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ile__L	L-Isoleucine
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ca2	Ca2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cl	Cl-
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cobalt2	Co2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cu2	Cu2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe2	Fe2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe3	Fe3+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h2o	H2O
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h	H+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	k	K+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mg2	Mg
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mn2	Mn2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mobd	Molybdate
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	na1	Na+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	nh4	Ammonium
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ni2	Ni2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	o2	O2
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	pi	Phosphate
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	so4	Sulfate
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	zn2	Zn2+

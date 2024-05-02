@@ -1,0 +1,61 @@
+medium	description	compound	name
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	arab__L	L-Arabinose
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	ca2	Ca2+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	cl	Cl-
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	cobalt2	Co2+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	cu2	Cu2+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	fe2	Fe2+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	fe3	Fe3+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	h2o	H2O
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	h	H+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	k	K+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	mg2	Mg
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	mn2	Mn2+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	mobd	Molybdate
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	na1	Na+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	nh4	Ammonium
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	ni2	Ni2+
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	o2	O2
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	pi	Phosphate
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	so4	Sulfate
+arab__L_medium	M9 medium containing L-Arabinose as sole carbon source	zn2	Zn2+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	succ	Succinic Acid
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	ca2	Ca2+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	cl	Cl-
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	cobalt2	Co2+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	cu2	Cu2+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	fe2	Fe2+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	fe3	Fe3+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	h2o	H2O
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	h	H+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	k	K+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	mg2	Mg
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	mn2	Mn2+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	mobd	Molybdate
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	na1	Na+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	nh4	Ammonium
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	ni2	Ni2+
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	o2	O2
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	pi	Phosphate
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	so4	Sulfate
+succ_medium	M9 medium containing Succinic Acid as sole carbon source	zn2	Zn2+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	dha	Dihydroxy Acetone
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	ca2	Ca2+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	cl	Cl-
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	cobalt2	Co2+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	cu2	Cu2+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	fe2	Fe2+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	fe3	Fe3+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	h2o	H2O
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	h	H+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	k	K+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	mg2	Mg
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	mn2	Mn2+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	mobd	Molybdate
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	na1	Na+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	nh4	Ammonium
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	ni2	Ni2+
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	o2	O2
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	pi	Phosphate
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	so4	Sulfate
+dha_medium	M9 medium containing Dihydroxy Acetone as sole carbon source	zn2	Zn2+

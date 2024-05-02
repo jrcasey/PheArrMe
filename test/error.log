@@ -1,0 +1,377 @@
+Command failed for medium tartr__M_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium tartr__M_medium
+Command failed for medium 2hb_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium 2hb_medium
+Command failed for medium amdglc_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium amdglc_medium
+Command failed for medium methsucc_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium methsucc_medium
+Command failed for medium 2mop_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium 2mop_medium
+Command failed for medium glypro_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium glypro_medium
+Command failed for medium tym_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium tym_medium
+Command failed for medium gal14lac_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium gal14lac_medium
+Command failed for medium cs_c_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium cs_c_medium
+Command failed for medium glycogen_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium glycogen_medium
+Command failed for medium mannan_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium mannan_medium
+Command failed for medium pectin_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium pectin_medium
+Command failed for medium acgala_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium acgala_medium
+Command failed for medium abt_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium abt_medium
+Command failed for medium rbl__B_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium rbl__B_medium
+Command failed for medium stys_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium stys_medium
+Command failed for medium xylt_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium xylt_medium
+Command failed for medium decacid_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium decacid_medium
+Command failed for medium caproic_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium caproic_medium
+Command failed for medium citac_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium citac_medium
+Command failed for medium citm_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium citm_medium
+Command failed for medium ghb_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium ghb_medium
+Command failed for medium malon_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium malon_medium
+Command failed for medium sebacid_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium sebacid_medium
+Command failed for medium 5oxopro_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium 5oxopro_medium
+Command failed for medium 23btdl_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium 23btdl_medium
+Command failed for medium R_actn_medium:
+Traceback (most recent call last):
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/johncasey/miniconda3/envs/BiologMe_new/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium R_actn_medium
+Command failed for medium tartr__M_medium:
+Traceback (most recent call last):
+  File "/Users/casey26/anaconda3/envs/BiologMe/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/casey26/anaconda3/envs/BiologMe/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/casey26/anaconda3/envs/BiologMe/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/casey26/anaconda3/envs/BiologMe/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/casey26/anaconda3/envs/BiologMe/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium tartr__M_medium
+Command failed for medium amdglc_medium:
+Traceback (most recent call last):
+  File "/Users/casey26/anaconda3/envs/BiologMe/bin/carve", line 8, in <module>
+    sys.exit(main())
+  File "/Users/casey26/anaconda3/envs/BiologMe/lib/python3.8/site-packages/carveme/cli/carve.py", line 357, in main
+    maincall(
+  File "/Users/casey26/anaconda3/envs/BiologMe/lib/python3.8/site-packages/carveme/cli/carve.py", line 240, in maincall
+    multiGapFill(model, universe_model, media, media_db, scores=scores, max_uptake=max_uptake, inplace=True)
+  File "/Users/casey26/anaconda3/envs/BiologMe/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 139, in multiGapFill
+    gapFill(model, universe, constraints=constraints, min_growth=min_growth,
+  File "/Users/casey26/anaconda3/envs/BiologMe/lib/python3.8/site-packages/carveme/reconstruction/gapfilling.py", line 74, in gapFill
+    raise RuntimeError('Failed to gapfill model for medium {}'.format(tag))
+RuntimeError: Failed to gapfill model for medium amdglc_medium

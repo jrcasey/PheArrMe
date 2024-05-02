@@ -1,0 +1,98 @@
+Time	Time
+Transmittance	T600
+Negative Control	A1
+Chondroitin Sulfate C	A2
+alpha-Cyclodextrin	A3
+beta-Cyclodextrin	A4
+gamma-Cyclodextrin	A5
+Dextrin	A6
+Gelatin	A7
+Glycogen	A8
+Inulin	A9
+Laminarin	A10
+Mannan	A11
+Pectin	A12
+N-Acetyl-D-Galactosamine	B1
+N-Acetyl-Neuraminic Acid	B2
+beta-D-Allose	B3
+Amygdalin	B4
+D-Arabinose	B5
+D-Arabitol	B6
+L-Arabitol	B7
+Arbutin	B8
+2-Deoxy-D-Ribose	B9
+i-Erythritol	B10
+D-Fucose	B11
+3-0-beta-D-Galactopyranosyl-D-Arabinose	B12
+Gentiobiose	C1
+L-Glucose	C2
+Lactitol	C3
+D-Melezitose	C4
+Maltitol	C5
+a-Methyl-D-Glucoside	C6
+beta-Methyl-D-Galactoside	C7
+Methyl Glucose	C8
+beta-Methyl-D-Glucuronic Acid	C9
+alpha-Methyl-D-Mannoside	C10
+beta-Methyl-D-Xyloside	C11
+Palatinose	C12
+D-Raffinose	D1
+Salicin	D2
+Sedoheptulosan	D3
+L-Sorbose	D4
+Stachyose	D5
+D-Tagatose	D6
+Turanose	D7
+Xylitol	D8
+N-Acetyl-D-Glucosaminitol	D9
+gamma-Amino Butyric Acid	D10
+delta-Amino Valeric Acid	D11
+Butyric Acid	D12
+Capric Acid	E1
+Caproic Acid	E2
+Citraconic Acid	E3
+Citramalic Acid	E4
+D-Glucosamine	E5
+2-Hydroxy Benzoic Acid	E6
+4-Hydroxy Benzoic Acid	E7
+beta-Hydroxy Butyric Acid	E8
+gamma-Hydroxy Butyric Acid	E9
+a-Keto-Valeric Acid	E10
+Itaconic Acid	E11
+5-Keto-D-Gluconic Acid	E12
+D-Lactic Acid Methyl Ester	F1
+Malonic Acid	F2
+Melibionic Acid	F3
+Oxalic Acid	F4
+Oxalomalic Acid	F5
+Quinic Acid	F6
+"D-Ribono-1,4-Lactone"	F7
+Sebacic Acid	F8
+Sorbic Acid	F9
+Succinamic Acid	F10
+D-Tartaric Acid	F11
+L-Tartaric Acid	F12
+Acetamide	G1
+L-Alaninamide	G2
+N-Acetyl-L-Glutamic Acid	G3
+L-Arginine	G4
+Glycine	G5
+L-Histidine	G6
+L-Homoserine	G7
+Hydroxy-L-Proline	G8
+L-Isoleucine	G9
+L-Leucine	G10
+L-Lysine	G11
+L-Methionine	G12
+L-Ornithine	H1
+L-Phenylalanine	H2
+L-Pyroglutamic Acid	H3
+L-Valine	H4
+"D,L-Carnitine"	H5
+Sec-Butylamine	H6
+D.L-Octopamine	H7
+Putrescine	H8
+Dihydroxy Acetone	H9
+"2,3-Butanediol"	H10
+"2,3-Butanone"	H11
+3-Hydroxy 2-Butanone	H12

@@ -1,0 +1,98 @@
+Time	Time
+Transmittance	T600
+Negative Control	A1
+L-Arabinose	A2
+N-Acetyl-D-Glucosamine	A3
+D-Saccharic Acid	A4
+Succinic Acid	A5
+D-Galactose	A6
+L-Aspartic Acid	A7
+L-Proline	A8
+D-Alanine	A9
+D-Trehalose	A10
+D-Mannose	A11
+Dulcitol	A12
+D-Serine	B1
+D-Sorbitol	B2
+Glycerol	B3
+L-Fucose	B4
+D-Glucuronic Acid	B5
+D-Gluconic Acid	B6
+"D,L-alpha-Glycerol-Phosphate"	B7
+D-Xylose	B8
+L-Lactic Acid	B9
+Formic Acid	B10
+D-Mannitol	B11
+L-Glutamic Acid	B12
+D-Glucose-6-Phosphate	C1
+D-Galactonic Acid-gamma-Lactone	C2
+"D,L-Malic Acid"	C3
+D-Ribose	C4
+Tween 20	C5
+L-Rhamnose	C6
+D-Fructose	C7
+Acetic Acid	C8
+alpha-D-Glucose	C9
+Maltose	C10
+D-Melibiose	C11
+Thymidine	C12
+L-Asparagine	D1
+D-Aspartic Acid	D2
+D-Glucosaminic Acid	D3
+"1,2-Propanediol"	D4
+Tween 40	D5
+alpha-Keto-Glutaric Acid	D6
+alpha-Keto-Butyric Acid	D7
+alpha-Methyl-D-Galactoside	D8
+alpha-D-Lactose	D9
+Lactulose	D10
+Sucrose	D11
+Uridine	D12
+L-Glutamine	E1
+m-Tartaric Acid	E2
+D-Glucose-1-Phosphate	E3
+D-Fructose-6-Phosphate	E4
+Tween 80	E5
+alpha-Hydroxy Glutaric Acid-gamma-Lactone	E6
+alpha-Hydroxy Butyric Acid	E7
+beta-Methyl-D-Glucoside	E8
+Adonitol	E9
+Maltotriose	E10
+2-Deoxy Adenosine	E11
+Adenosine	E12
+Glycyl-L-Aspartic Acid	F1
+Citric Acid	F2
+m-Inositol	F3
+D-Threonine	F4
+Fumaric Acid	F5
+Bromo Succinic Acid	F6
+Propionic Acid	F7
+Mucic Acid	F8
+Glycolic Acid	F9
+Glyoxylic Acid	F10
+D-Cellobiose	F11
+Inosine	F12
+Glycyl-L-Glutamic Acid	G1
+Tricarballylic Acid	G2
+L-Serine	G3
+L-Threonine	G4
+L-Alanine	G5
+L-Alanyl-Glycine	G6
+Acetoacetic Acid	G7
+N-Acetyl-beta-D-Mannosamine	G8
+Mono Methyl Succinate	G9
+Methyl Pyruvate	G10
+D-Malic Acid	G11
+L-Malic Acid	G12
+Glycyl-L-Proline	H1
+p-Hydroxy Phenyl Acetic Acid	H2
+m-Hydroxy Phenyl Acetic Acid	H3
+Tyramine	H4
+D-Psicose	H5
+L-Lyxose	H6
+Glucuronamide	H7
+Pyruvic Acid	H8
+L-Galactonic Acid-gamma-Lactone	H9
+D-Galacturonic Acid	H10
+Phenylethylamine	H11
+2-Aminoethanol	H12

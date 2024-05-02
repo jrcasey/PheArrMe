@@ -1,0 +1,191 @@
+Plate	Well	Column	Row	Biolog_name	BiGG
+PM1	A2	A	2	L-Arabinose	arab__L
+PM1	A3	A	3	N-Acetyl-D-Glucosamine	acgam
+PM1	A4	A	4	D-Saccharic Acid	glcr
+PM1	A5	A	5	Succinic Acid	succ
+PM1	A6	A	6	D-Galactose	gal
+PM1	A7	A	7	L-Aspartic Acid	asp__L
+PM1	A8	A	8	L-Proline	pro__L
+PM1	A9	A	9	D-Alanine	ala__D
+PM1	A10	A	10	D-Trehalose	tre
+PM1	A11	A	11	D-Mannose	man
+PM1	A12	A	12	Dulcitol	galt
+PM1	B1	B	1	D-Serine	ser__D
+PM1	B2	B	2	D-Sorbitol	sbt__D
+PM1	B3	B	3	Glycerol	glyc
+PM1	B4	B	4	L-Fucose	fuc__L
+PM1	B5	B	5	D-Glucuronic Acid	glcur
+PM1	B6	B	6	D-Gluconic Acid	glcn
+PM1	B7	B	7	"D,L-alpha-Glycerol-Phosphate"	glyc3p
+PM1	B8	B	8	D-Xylose	xyl__D
+PM1	B9	B	9	L-Lactic Acid	lac__L
+PM1	B10	B	10	Formic Acid	for
+PM1	B11	B	11	D-Mannitol	mnl
+PM1	B12	B	12	L-Glutamic Acid	glu__L
+PM1	C1	C	1	D-Glucose-6-Phosphate	g6p
+PM1	C2	C	2	D-Galactonic Acid-gamma-Lactone	
+PM1	C3	C	3	"D,L-Malic Acid"	mal__D
+PM1	C4	C	4	D-Ribose	rib__D
+PM1	C5	C	5	Tween 20	
+PM1	C6	C	6	L-Rhamnose	rmn
+PM1	C7	C	7	D-Fructose	fru
+PM1	C8	C	8	Acetic Acid	ac
+PM1	C9	C	9	alpha-D-Glucose	glc__D
+PM1	C10	C	10	Maltose	malt
+PM1	C11	C	11	D-Melibiose	melib
+PM1	C12	C	12	Thymidine	thymd
+PM1	D1	D	1	L-Asparagine	asn__L
+PM1	D2	D	2	D-Aspartic Acid	asp__D
+PM1	D3	D	3	D-Glucosaminic Acid	gam
+PM1	D4	D	4	"1,2-Propanediol"	13ppd
+PM1	D5	D	5	Tween 40	
+PM1	D6	D	6	alpha-Keto-Glutaric Acid	akg
+PM1	D7	D	7	alpha-Keto-Butyric Acid	
+PM1	D8	D	8	alpha-Methyl-D-Galactoside	
+PM1	D9	D	9	alpha-D-Lactose	lcts
+PM1	D10	D	10	Lactulose	
+PM1	D11	D	11	Sucrose	sucr
+PM1	D12	D	12	Uridine	uri
+PM1	E1	E	1	L-Glutamine	gln__L
+PM1	E2	E	2	m-Tartaric Acid	tartr__M
+PM1	E3	E	3	D-Glucose-1-Phosphate	g1p
+PM1	E4	E	4	D-Fructose-6-Phosphate	f6p
+PM1	E5	E	5	Tween 80	
+PM1	E6	E	6	alpha-Hydroxy Glutaric Acid-gamma-Lactone	
+PM1	E7	E	7	alpha-Hydroxy Butyric Acid	2hb
+PM1	E8	E	8	beta-Methyl-D-Glucoside	amdglc
+PM1	E9	E	9	Adonitol	
+PM1	E10	E	10	Maltotriose	malttr
+PM1	E11	E	11	2-Deoxy Adenosine	dad_2
+PM1	E12	E	12	Adenosine	adn
+PM1	F1	F	1	Glycyl-L-Aspartic Acid	gly_asp__L
+PM1	F2	F	2	Citric Acid	cit
+PM1	F3	F	3	m-Inositol	inost
+PM1	F4	F	4	D-Threonine	
+PM1	F5	F	5	Fumaric Acid	fum
+PM1	F6	F	6	Bromo Succinic Acid	
+PM1	F7	F	7	Propionic Acid	ppa
+PM1	F8	F	8	Mucic Acid	galct__D
+PM1	F9	F	9	Glycolic Acid	glyclt
+PM1	F10	F	10	Glyoxylic Acid	glx
+PM1	F11	F	11	D-Cellobiose	cellb
+PM1	F12	F	12	Inosine	ins
+PM1	G1	G	1	Glycyl-L-Glutamic Acid	glyglu
+PM1	G2	G	2	Tricarballylic Acid	tcb
+PM1	G3	G	3	L-Serine	ser__L
+PM1	G4	G	4	L-Threonine	thr__L
+PM1	G5	G	5	L-Alanine	ala__L
+PM1	G6	G	6	L-Alanyl-Glycine	alagly
+PM1	G7	G	7	Acetoacetic Acid	acac
+PM1	G8	G	8	N-Acetyl-beta-D-Mannosamine	acmana
+PM1	G9	G	9	Mono Methyl Succinate	methsucc
+PM1	G10	G	10	Methyl Pyruvate	2mop
+PM1	G11	G	11	D-Malic Acid	mal__D
+PM1	G12	G	12	L-Malic Acid	mal__L
+PM1	H1	H	1	Glycyl-L-Proline	glypro
+PM1	H2	H	2	p-Hydroxy Phenyl Acetic Acid	3hoxpac
+PM1	H3	H	3	m-Hydroxy Phenyl Acetic Acid	4hoxpac
+PM1	H4	H	4	Tyramine	tym
+PM1	H5	H	5	D-Psicose	
+PM1	H6	H	6	L-Lyxose	lyx__L
+PM1	H7	H	7	Glucuronamide	
+PM1	H8	H	8	Pyruvic Acid	pyr
+PM1	H9	H	9	L-Galactonic Acid-gamma-Lactone	gal14lac
+PM1	H10	H	10	D-Galacturonic Acid	galur
+PM1	H11	H	11	Phenylethylamine	peamn
+PM1	H12	H	12	2-Aminoethanol	
+PM2	A2	A	2	Chondroitin Sulfate C	cs_c
+PM2	A3	A	3	alpha-Cyclodextrin	
+PM2	A4	A	4	beta-Cyclodextrin	
+PM2	A5	A	5	gamma-Cyclodextrin	
+PM2	A6	A	6	Dextrin	dextrin
+PM2	A7	A	7	Gelatin	
+PM2	A8	A	8	Glycogen	glycogen
+PM2	A9	A	9	Inulin	
+PM2	A10	A	10	Laminarin	lmn2
+PM2	A11	A	11	Mannan	mannan
+PM2	A12	A	12	Pectin	pectin
+PM2	B1	B	1	N-Acetyl-D-Galactosamine	acgala
+PM2	B2	B	2	N-Acetyl-Neuraminic Acid	
+PM2	B3	B	3	beta-D-Allose	
+PM2	B4	B	4	Amygdalin	
+PM2	B5	B	5	D-Arabinose	arab__D
+PM2	B6	B	6	D-Arabitol	abt__D
+PM2	B7	B	7	L-Arabitol	abt
+PM2	B8	B	8	Arbutin	arbt
+PM2	B9	B	9	2-Deoxy-D-Ribose	drib
+PM2	B10	B	10	i-Erythritol	
+PM2	B11	B	11	D-Fucose	
+PM2	B12	B	12	3-0-beta-D-Galactopyranosyl-D-Arabinose	
+PM2	C1	C	1	Gentiobiose	
+PM2	C2	C	2	L-Glucose	
+PM2	C3	C	3	Lactitol	
+PM2	C4	C	4	D-Melezitose	
+PM2	C5	C	5	Maltitol	
+PM2	C6	C	6	a-Methyl-D-Glucoside	amdglc
+PM2	C7	C	7	beta-Methyl-D-Galactoside	
+PM2	C8	C	8	Methyl Glucose	
+PM2	C9	C	9	beta-Methyl-D-Glucuronic Acid	metglcur
+PM2	C10	C	10	alpha-Methyl-D-Mannoside	
+PM2	C11	C	11	beta-Methyl-D-Xyloside	
+PM2	C12	C	12	Palatinose	pala
+PM2	D1	D	1	D-Raffinose	raffin
+PM2	D2	D	2	Salicin	rbl__B
+PM2	D3	D	3	Sedoheptulosan	
+PM2	D4	D	4	L-Sorbose	srb__L
+PM2	D5	D	5	Stachyose	stys
+PM2	D6	D	6	D-Tagatose	tag__D
+PM2	D7	D	7	Turanose	
+PM2	D8	D	8	Xylitol	xylt
+PM2	D9	D	9	N-Acetyl-D-Glucosaminitol	
+PM2	D10	D	10	gamma-Amino Butyric Acid	
+PM2	D11	D	11	delta-Amino Valeric Acid	
+PM2	D12	D	12	Butyric Acid	but
+PM2	E1	E	1	Capric Acid	decacid
+PM2	E2	E	2	Caproic Acid	caproic
+PM2	E3	E	3	Citraconic Acid	citac
+PM2	E4	E	4	Citramalic Acid	citm
+PM2	E5	E	5	D-Glucosamine	gam
+PM2	E6	E	6	2-Hydroxy Benzoic Acid	salc
+PM2	E7	E	7	4-Hydroxy Benzoic Acid	4hbz
+PM2	E8	E	8	beta-Hydroxy Butyric Acid	
+PM2	E9	E	9	gamma-Hydroxy Butyric Acid	ghb
+PM2	E10	E	10	a-Keto-Valeric Acid	
+PM2	E11	E	11	Itaconic Acid	
+PM2	E12	E	12	5-Keto-D-Gluconic Acid	
+PM2	F1	F	1	D-Lactic Acid Methyl Ester	
+PM2	F2	F	2	Malonic Acid	malon
+PM2	F3	F	3	Melibionic Acid	
+PM2	F4	F	4	Oxalic Acid	oxa
+PM2	F5	F	5	Oxalomalic Acid	
+PM2	F6	F	6	Quinic Acid	quin
+PM2	F7	F	7	"D-Ribono-1,4-Lactone"	
+PM2	F8	F	8	Sebacic Acid	sebacid
+PM2	F9	F	9	Sorbic Acid	
+PM2	F10	F	10	Succinamic Acid	
+PM2	F11	F	11	D-Tartaric Acid	tartr__M
+PM2	F12	F	12	L-Tartaric Acid	tartr__L
+PM2	G1	G	1	Acetamide	ad
+PM2	G2	G	2	L-Alaninamide	balamd
+PM2	G3	G	3	N-Acetyl-L-Glutamic Acid	acglu
+PM2	G4	G	4	L-Arginine	arg__L
+PM2	G5	G	5	Glycine	gly
+PM2	G6	G	6	L-Histidine	his__L
+PM2	G7	G	7	L-Homoserine	hom__L
+PM2	G8	G	8	Hydroxy-L-Proline	
+PM2	G9	G	9	L-Isoleucine	ile__L
+PM2	G10	G	10	L-Leucine	leu__L
+PM2	G11	G	11	L-Lysine	lys__L
+PM2	G12	G	12	L-Methionine	met__L
+PM2	H1	H	1	L-Ornithine	orn
+PM2	H2	H	2	L-Phenylalanine	phe__L
+PM2	H3	H	3	L-Pyroglutamic Acid	5oxopro
+PM2	H4	H	4	L-Valine	val__L
+PM2	H5	H	5	"D,L-Carnitine"	crn
+PM2	H6	H	6	Sec-Butylamine	
+PM2	H7	H	7	D.L-Octopamine	
+PM2	H8	H	8	Putrescine	ptrc
+PM2	H9	H	9	Dihydroxy Acetone	dha
+PM2	H10	H	10	"2,3-Butanediol"	23btdl
+PM2	H11	H	11	"2,3-Butanone"	
+PM2	H12	H	12	3-Hydroxy 2-Butanone	R_actn
