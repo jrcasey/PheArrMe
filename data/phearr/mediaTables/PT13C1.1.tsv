@@ -1,4 +1,24 @@
 medium	description	compound	name
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	tartr__L	L-Tartaric Acid
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ca2	Ca2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cl	Cl-
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cobalt2	Co2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cu2	Cu2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe2	Fe2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe3	Fe3+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h2o	H2O
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h	H+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	k	K+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mg2	Mg
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mn2	Mn2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mobd	Molybdate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	na1	Na+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	nh4	Ammonium
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ni2	Ni2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	o2	O2
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	pi	Phosphate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	so4	Sulfate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	zn2	Zn2+
 man_medium	M9 medium containing D-Mannose as sole carbon source	man	D-Mannose
 man_medium	M9 medium containing D-Mannose as sole carbon source	ca2	Ca2+
 man_medium	M9 medium containing D-Mannose as sole carbon source	cl	Cl-
@@ -79,23 +99,3 @@ mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	o2	O2
 mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	pi	Phosphate
 mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	so4	Sulfate
 mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	zn2	Zn2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	tartr__L	L-Tartaric Acid
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ca2	Ca2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cl	Cl-
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cobalt2	Co2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cu2	Cu2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe2	Fe2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe3	Fe3+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h2o	H2O
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h	H+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	k	K+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mg2	Mg
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mn2	Mn2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mobd	Molybdate
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	na1	Na+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	nh4	Ammonium
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ni2	Ni2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	o2	O2
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	pi	Phosphate
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	so4	Sulfate
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	zn2	Zn2+

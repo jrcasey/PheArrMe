@@ -1,4 +1,104 @@
 medium	description	compound	name
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	dextrin	Dextrin
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	ca2	Ca2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	cl	Cl-
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	cobalt2	Co2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	cu2	Cu2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe2	Fe2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe3	Fe3+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	h2o	H2O
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	h	H+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	k	K+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	mg2	Mg
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	mn2	Mn2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	mobd	Molybdate
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	na1	Na+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	nh4	Ammonium
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	ni2	Ni2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	o2	O2
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	pi	Phosphate
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	so4	Sulfate
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	zn2	Zn2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	but	Butyric Acid
+but_medium	M9 medium containing Butyric Acid as sole carbon source	ca2	Ca2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	cl	Cl-
+but_medium	M9 medium containing Butyric Acid as sole carbon source	cobalt2	Co2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	cu2	Cu2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	fe2	Fe2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	fe3	Fe3+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	h2o	H2O
+but_medium	M9 medium containing Butyric Acid as sole carbon source	h	H+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	k	K+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	mg2	Mg
+but_medium	M9 medium containing Butyric Acid as sole carbon source	mn2	Mn2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	mobd	Molybdate
+but_medium	M9 medium containing Butyric Acid as sole carbon source	na1	Na+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	nh4	Ammonium
+but_medium	M9 medium containing Butyric Acid as sole carbon source	ni2	Ni2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	o2	O2
+but_medium	M9 medium containing Butyric Acid as sole carbon source	pi	Phosphate
+but_medium	M9 medium containing Butyric Acid as sole carbon source	so4	Sulfate
+but_medium	M9 medium containing Butyric Acid as sole carbon source	zn2	Zn2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	tartr__L	L-Tartaric Acid
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ca2	Ca2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cl	Cl-
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cobalt2	Co2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cu2	Cu2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe2	Fe2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe3	Fe3+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h2o	H2O
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h	H+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	k	K+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mg2	Mg
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mn2	Mn2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mobd	Molybdate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	na1	Na+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	nh4	Ammonium
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ni2	Ni2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	o2	O2
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	pi	Phosphate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	so4	Sulfate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	zn2	Zn2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	leu__L	L-Leucine
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ca2	Ca2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cl	Cl-
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cobalt2	Co2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cu2	Cu2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe2	Fe2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe3	Fe3+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h2o	H2O
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h	H+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	k	K+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mg2	Mg
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mn2	Mn2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mobd	Molybdate
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	na1	Na+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	nh4	Ammonium
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ni2	Ni2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	o2	O2
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	pi	Phosphate
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	so4	Sulfate
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	zn2	Zn2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ile__L	L-Isoleucine
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ca2	Ca2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cl	Cl-
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cobalt2	Co2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cu2	Cu2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe2	Fe2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe3	Fe3+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h2o	H2O
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h	H+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	k	K+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mg2	Mg
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mn2	Mn2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mobd	Molybdate
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	na1	Na+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	nh4	Ammonium
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ni2	Ni2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	o2	O2
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	pi	Phosphate
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	so4	Sulfate
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	zn2	Zn2+
 glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	glu__L	L-Glutamic Acid
 glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	ca2	Ca2+
 glu__L_medium	M9 medium containing L-Glutamic Acid as sole carbon source	cl	Cl-
@@ -179,103 +279,3 @@ mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	o2	O2
 mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	pi	Phosphate
 mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	so4	Sulfate
 mal__L_medium	M9 medium containing L-Malic Acid as sole carbon source	zn2	Zn2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	dextrin	Dextrin
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	ca2	Ca2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	cl	Cl-
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	cobalt2	Co2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	cu2	Cu2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe2	Fe2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe3	Fe3+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	h2o	H2O
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	h	H+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	k	K+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	mg2	Mg
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	mn2	Mn2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	mobd	Molybdate
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	na1	Na+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	nh4	Ammonium
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	ni2	Ni2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	o2	O2
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	pi	Phosphate
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	so4	Sulfate
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	zn2	Zn2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	but	Butyric Acid
-but_medium	M9 medium containing Butyric Acid as sole carbon source	ca2	Ca2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	cl	Cl-
-but_medium	M9 medium containing Butyric Acid as sole carbon source	cobalt2	Co2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	cu2	Cu2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	fe2	Fe2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	fe3	Fe3+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	h2o	H2O
-but_medium	M9 medium containing Butyric Acid as sole carbon source	h	H+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	k	K+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	mg2	Mg
-but_medium	M9 medium containing Butyric Acid as sole carbon source	mn2	Mn2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	mobd	Molybdate
-but_medium	M9 medium containing Butyric Acid as sole carbon source	na1	Na+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	nh4	Ammonium
-but_medium	M9 medium containing Butyric Acid as sole carbon source	ni2	Ni2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	o2	O2
-but_medium	M9 medium containing Butyric Acid as sole carbon source	pi	Phosphate
-but_medium	M9 medium containing Butyric Acid as sole carbon source	so4	Sulfate
-but_medium	M9 medium containing Butyric Acid as sole carbon source	zn2	Zn2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	tartr__L	L-Tartaric Acid
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ca2	Ca2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cl	Cl-
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cobalt2	Co2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cu2	Cu2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe2	Fe2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe3	Fe3+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h2o	H2O
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h	H+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	k	K+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mg2	Mg
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mn2	Mn2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mobd	Molybdate
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	na1	Na+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	nh4	Ammonium
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ni2	Ni2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	o2	O2
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	pi	Phosphate
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	so4	Sulfate
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	zn2	Zn2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	leu__L	L-Leucine
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ca2	Ca2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cl	Cl-
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cobalt2	Co2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cu2	Cu2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe2	Fe2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe3	Fe3+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h2o	H2O
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h	H+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	k	K+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mg2	Mg
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mn2	Mn2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mobd	Molybdate
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	na1	Na+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	nh4	Ammonium
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ni2	Ni2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	o2	O2
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	pi	Phosphate
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	so4	Sulfate
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	zn2	Zn2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ile__L	L-Isoleucine
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ca2	Ca2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cl	Cl-
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cobalt2	Co2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cu2	Cu2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe2	Fe2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe3	Fe3+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h2o	H2O
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h	H+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	k	K+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mg2	Mg
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mn2	Mn2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mobd	Molybdate
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	na1	Na+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	nh4	Ammonium
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ni2	Ni2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	o2	O2
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	pi	Phosphate
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	so4	Sulfate
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	zn2	Zn2+

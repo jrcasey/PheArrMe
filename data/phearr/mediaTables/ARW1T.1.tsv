@@ -1,344 +1,4 @@
 medium	description	compound	name
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	lmn2	Laminarin
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	ca2	Ca2+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	cl	Cl-
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	cobalt2	Co2+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	cu2	Cu2+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	fe2	Fe2+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	fe3	Fe3+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	h2o	H2O
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	h	H+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	k	K+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	mg2	Mg
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	mn2	Mn2+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	mobd	Molybdate
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	na1	Na+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	nh4	Ammonium
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	ni2	Ni2+
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	o2	O2
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	pi	Phosphate
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	so4	Sulfate
-lmn2_medium	M9 medium containing Laminarin as sole carbon source	zn2	Zn2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	dextrin	Dextrin
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	ca2	Ca2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	cl	Cl-
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	cobalt2	Co2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	cu2	Cu2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe2	Fe2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe3	Fe3+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	h2o	H2O
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	h	H+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	k	K+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	mg2	Mg
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	mn2	Mn2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	mobd	Molybdate
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	na1	Na+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	nh4	Ammonium
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	ni2	Ni2+
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	o2	O2
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	pi	Phosphate
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	so4	Sulfate
-dextrin_medium	M9 medium containing Dextrin as sole carbon source	zn2	Zn2+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	abt__D	D-Arabitol
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	ca2	Ca2+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	cl	Cl-
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	cobalt2	Co2+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	cu2	Cu2+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	fe2	Fe2+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	fe3	Fe3+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	h2o	H2O
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	h	H+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	k	K+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	mg2	Mg
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	mn2	Mn2+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	mobd	Molybdate
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	na1	Na+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	nh4	Ammonium
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	ni2	Ni2+
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	o2	O2
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	pi	Phosphate
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	so4	Sulfate
-abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	zn2	Zn2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	but	Butyric Acid
-but_medium	M9 medium containing Butyric Acid as sole carbon source	ca2	Ca2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	cl	Cl-
-but_medium	M9 medium containing Butyric Acid as sole carbon source	cobalt2	Co2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	cu2	Cu2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	fe2	Fe2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	fe3	Fe3+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	h2o	H2O
-but_medium	M9 medium containing Butyric Acid as sole carbon source	h	H+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	k	K+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	mg2	Mg
-but_medium	M9 medium containing Butyric Acid as sole carbon source	mn2	Mn2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	mobd	Molybdate
-but_medium	M9 medium containing Butyric Acid as sole carbon source	na1	Na+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	nh4	Ammonium
-but_medium	M9 medium containing Butyric Acid as sole carbon source	ni2	Ni2+
-but_medium	M9 medium containing Butyric Acid as sole carbon source	o2	O2
-but_medium	M9 medium containing Butyric Acid as sole carbon source	pi	Phosphate
-but_medium	M9 medium containing Butyric Acid as sole carbon source	so4	Sulfate
-but_medium	M9 medium containing Butyric Acid as sole carbon source	zn2	Zn2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	tartr__L	L-Tartaric Acid
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ca2	Ca2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cl	Cl-
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cobalt2	Co2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cu2	Cu2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe2	Fe2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe3	Fe3+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h2o	H2O
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h	H+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	k	K+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mg2	Mg
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mn2	Mn2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mobd	Molybdate
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	na1	Na+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	nh4	Ammonium
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ni2	Ni2+
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	o2	O2
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	pi	Phosphate
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	so4	Sulfate
-tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	zn2	Zn2+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	quin	Quinic Acid
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	ca2	Ca2+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	cl	Cl-
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	cobalt2	Co2+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	cu2	Cu2+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	fe2	Fe2+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	fe3	Fe3+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	h2o	H2O
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	h	H+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	k	K+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	mg2	Mg
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	mn2	Mn2+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	mobd	Molybdate
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	na1	Na+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	nh4	Ammonium
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	ni2	Ni2+
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	o2	O2
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	pi	Phosphate
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	so4	Sulfate
-quin_medium	M9 medium containing Quinic Acid as sole carbon source	zn2	Zn2+
-ad_medium	M9 medium containing Acetamide as sole carbon source	ad	Acetamide
-ad_medium	M9 medium containing Acetamide as sole carbon source	ca2	Ca2+
-ad_medium	M9 medium containing Acetamide as sole carbon source	cl	Cl-
-ad_medium	M9 medium containing Acetamide as sole carbon source	cobalt2	Co2+
-ad_medium	M9 medium containing Acetamide as sole carbon source	cu2	Cu2+
-ad_medium	M9 medium containing Acetamide as sole carbon source	fe2	Fe2+
-ad_medium	M9 medium containing Acetamide as sole carbon source	fe3	Fe3+
-ad_medium	M9 medium containing Acetamide as sole carbon source	h2o	H2O
-ad_medium	M9 medium containing Acetamide as sole carbon source	h	H+
-ad_medium	M9 medium containing Acetamide as sole carbon source	k	K+
-ad_medium	M9 medium containing Acetamide as sole carbon source	mg2	Mg
-ad_medium	M9 medium containing Acetamide as sole carbon source	mn2	Mn2+
-ad_medium	M9 medium containing Acetamide as sole carbon source	mobd	Molybdate
-ad_medium	M9 medium containing Acetamide as sole carbon source	na1	Na+
-ad_medium	M9 medium containing Acetamide as sole carbon source	nh4	Ammonium
-ad_medium	M9 medium containing Acetamide as sole carbon source	ni2	Ni2+
-ad_medium	M9 medium containing Acetamide as sole carbon source	o2	O2
-ad_medium	M9 medium containing Acetamide as sole carbon source	pi	Phosphate
-ad_medium	M9 medium containing Acetamide as sole carbon source	so4	Sulfate
-ad_medium	M9 medium containing Acetamide as sole carbon source	zn2	Zn2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	leu__L	L-Leucine
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ca2	Ca2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cl	Cl-
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cobalt2	Co2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cu2	Cu2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe2	Fe2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe3	Fe3+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h2o	H2O
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h	H+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	k	K+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mg2	Mg
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mn2	Mn2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mobd	Molybdate
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	na1	Na+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	nh4	Ammonium
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ni2	Ni2+
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	o2	O2
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	pi	Phosphate
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	so4	Sulfate
-leu__L_medium	M9 medium containing L-Leucine as sole carbon source	zn2	Zn2+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	lys__L	L-Lysine
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	ca2	Ca2+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	cl	Cl-
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	cobalt2	Co2+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	cu2	Cu2+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	fe2	Fe2+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	fe3	Fe3+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	h2o	H2O
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	h	H+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	k	K+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	mg2	Mg
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	mn2	Mn2+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	mobd	Molybdate
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	na1	Na+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	nh4	Ammonium
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	ni2	Ni2+
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	o2	O2
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	pi	Phosphate
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	so4	Sulfate
-lys__L_medium	M9 medium containing L-Lysine as sole carbon source	zn2	Zn2+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	met__L	L-Methionine
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	ca2	Ca2+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	cl	Cl-
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	cobalt2	Co2+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	cu2	Cu2+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	fe2	Fe2+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	fe3	Fe3+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	h2o	H2O
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	h	H+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	k	K+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	mg2	Mg
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	mn2	Mn2+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	mobd	Molybdate
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	na1	Na+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	nh4	Ammonium
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	ni2	Ni2+
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	o2	O2
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	pi	Phosphate
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	so4	Sulfate
-met__L_medium	M9 medium containing L-Methionine as sole carbon source	zn2	Zn2+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	acglu	N-Acetyl-L-Glutamic Acid
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	ca2	Ca2+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	cl	Cl-
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	cobalt2	Co2+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	cu2	Cu2+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	fe2	Fe2+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	fe3	Fe3+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	h2o	H2O
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	h	H+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	k	K+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	mg2	Mg
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	mn2	Mn2+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	mobd	Molybdate
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	na1	Na+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	nh4	Ammonium
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	ni2	Ni2+
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	o2	O2
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	pi	Phosphate
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	so4	Sulfate
-acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	zn2	Zn2+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	arg__L	L-Arginine
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	ca2	Ca2+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	cl	Cl-
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	cobalt2	Co2+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	cu2	Cu2+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	fe2	Fe2+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	fe3	Fe3+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	h2o	H2O
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	h	H+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	k	K+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	mg2	Mg
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	mn2	Mn2+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	mobd	Molybdate
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	na1	Na+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	nh4	Ammonium
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	ni2	Ni2+
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	o2	O2
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	pi	Phosphate
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	so4	Sulfate
-arg__L_medium	M9 medium containing L-Arginine as sole carbon source	zn2	Zn2+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	his__L	L-Histidine
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	ca2	Ca2+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	cl	Cl-
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	cobalt2	Co2+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	cu2	Cu2+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	fe2	Fe2+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	fe3	Fe3+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	h2o	H2O
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	h	H+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	k	K+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	mg2	Mg
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	mn2	Mn2+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	mobd	Molybdate
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	na1	Na+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	nh4	Ammonium
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	ni2	Ni2+
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	o2	O2
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	pi	Phosphate
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	so4	Sulfate
-his__L_medium	M9 medium containing L-Histidine as sole carbon source	zn2	Zn2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ile__L	L-Isoleucine
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ca2	Ca2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cl	Cl-
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cobalt2	Co2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cu2	Cu2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe2	Fe2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe3	Fe3+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h2o	H2O
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h	H+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	k	K+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mg2	Mg
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mn2	Mn2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mobd	Molybdate
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	na1	Na+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	nh4	Ammonium
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ni2	Ni2+
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	o2	O2
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	pi	Phosphate
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	so4	Sulfate
-ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	zn2	Zn2+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	orn	L-Ornithine
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	ca2	Ca2+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	cl	Cl-
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	cobalt2	Co2+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	cu2	Cu2+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	fe2	Fe2+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	fe3	Fe3+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	h2o	H2O
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	h	H+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	k	K+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	mg2	Mg
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	mn2	Mn2+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	mobd	Molybdate
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	na1	Na+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	nh4	Ammonium
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	ni2	Ni2+
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	o2	O2
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	pi	Phosphate
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	so4	Sulfate
-orn_medium	M9 medium containing L-Ornithine as sole carbon source	zn2	Zn2+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	phe__L	L-Phenylalanine
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	ca2	Ca2+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	cl	Cl-
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	cobalt2	Co2+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	cu2	Cu2+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	fe2	Fe2+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	fe3	Fe3+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	h2o	H2O
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	h	H+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	k	K+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	mg2	Mg
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	mn2	Mn2+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	mobd	Molybdate
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	na1	Na+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	nh4	Ammonium
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	ni2	Ni2+
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	o2	O2
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	pi	Phosphate
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	so4	Sulfate
-phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	zn2	Zn2+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	val__L	L-Valine
-val__L_medium	M9 medium containing L-Valine as sole carbon source	ca2	Ca2+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	cl	Cl-
-val__L_medium	M9 medium containing L-Valine as sole carbon source	cobalt2	Co2+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	cu2	Cu2+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	fe2	Fe2+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	fe3	Fe3+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	h2o	H2O
-val__L_medium	M9 medium containing L-Valine as sole carbon source	h	H+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	k	K+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	mg2	Mg
-val__L_medium	M9 medium containing L-Valine as sole carbon source	mn2	Mn2+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	mobd	Molybdate
-val__L_medium	M9 medium containing L-Valine as sole carbon source	na1	Na+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	nh4	Ammonium
-val__L_medium	M9 medium containing L-Valine as sole carbon source	ni2	Ni2+
-val__L_medium	M9 medium containing L-Valine as sole carbon source	o2	O2
-val__L_medium	M9 medium containing L-Valine as sole carbon source	pi	Phosphate
-val__L_medium	M9 medium containing L-Valine as sole carbon source	so4	Sulfate
-val__L_medium	M9 medium containing L-Valine as sole carbon source	zn2	Zn2+
 asp__L_medium	M9 medium containing L-Aspartic Acid as sole carbon source	asp__L	L-Aspartic Acid
 asp__L_medium	M9 medium containing L-Aspartic Acid as sole carbon source	ca2	Ca2+
 asp__L_medium	M9 medium containing L-Aspartic Acid as sole carbon source	cl	Cl-
@@ -939,3 +599,343 @@ pyr_medium	M9 medium containing Pyruvic Acid as sole carbon source	o2	O2
 pyr_medium	M9 medium containing Pyruvic Acid as sole carbon source	pi	Phosphate
 pyr_medium	M9 medium containing Pyruvic Acid as sole carbon source	so4	Sulfate
 pyr_medium	M9 medium containing Pyruvic Acid as sole carbon source	zn2	Zn2+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	lmn2	Laminarin
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	ca2	Ca2+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	cl	Cl-
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	cobalt2	Co2+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	cu2	Cu2+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	fe2	Fe2+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	fe3	Fe3+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	h2o	H2O
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	h	H+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	k	K+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	mg2	Mg
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	mn2	Mn2+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	mobd	Molybdate
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	na1	Na+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	nh4	Ammonium
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	ni2	Ni2+
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	o2	O2
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	pi	Phosphate
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	so4	Sulfate
+lmn2_medium	M9 medium containing Laminarin as sole carbon source	zn2	Zn2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	dextrin	Dextrin
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	ca2	Ca2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	cl	Cl-
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	cobalt2	Co2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	cu2	Cu2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe2	Fe2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	fe3	Fe3+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	h2o	H2O
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	h	H+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	k	K+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	mg2	Mg
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	mn2	Mn2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	mobd	Molybdate
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	na1	Na+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	nh4	Ammonium
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	ni2	Ni2+
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	o2	O2
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	pi	Phosphate
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	so4	Sulfate
+dextrin_medium	M9 medium containing Dextrin as sole carbon source	zn2	Zn2+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	abt__D	D-Arabitol
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	ca2	Ca2+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	cl	Cl-
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	cobalt2	Co2+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	cu2	Cu2+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	fe2	Fe2+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	fe3	Fe3+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	h2o	H2O
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	h	H+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	k	K+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	mg2	Mg
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	mn2	Mn2+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	mobd	Molybdate
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	na1	Na+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	nh4	Ammonium
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	ni2	Ni2+
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	o2	O2
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	pi	Phosphate
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	so4	Sulfate
+abt__D_medium	M9 medium containing D-Arabitol as sole carbon source	zn2	Zn2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	but	Butyric Acid
+but_medium	M9 medium containing Butyric Acid as sole carbon source	ca2	Ca2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	cl	Cl-
+but_medium	M9 medium containing Butyric Acid as sole carbon source	cobalt2	Co2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	cu2	Cu2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	fe2	Fe2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	fe3	Fe3+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	h2o	H2O
+but_medium	M9 medium containing Butyric Acid as sole carbon source	h	H+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	k	K+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	mg2	Mg
+but_medium	M9 medium containing Butyric Acid as sole carbon source	mn2	Mn2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	mobd	Molybdate
+but_medium	M9 medium containing Butyric Acid as sole carbon source	na1	Na+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	nh4	Ammonium
+but_medium	M9 medium containing Butyric Acid as sole carbon source	ni2	Ni2+
+but_medium	M9 medium containing Butyric Acid as sole carbon source	o2	O2
+but_medium	M9 medium containing Butyric Acid as sole carbon source	pi	Phosphate
+but_medium	M9 medium containing Butyric Acid as sole carbon source	so4	Sulfate
+but_medium	M9 medium containing Butyric Acid as sole carbon source	zn2	Zn2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	tartr__L	L-Tartaric Acid
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ca2	Ca2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cl	Cl-
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cobalt2	Co2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	cu2	Cu2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe2	Fe2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	fe3	Fe3+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h2o	H2O
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	h	H+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	k	K+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mg2	Mg
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mn2	Mn2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	mobd	Molybdate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	na1	Na+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	nh4	Ammonium
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	ni2	Ni2+
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	o2	O2
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	pi	Phosphate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	so4	Sulfate
+tartr__L_medium	M9 medium containing L-Tartaric Acid as sole carbon source	zn2	Zn2+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	quin	Quinic Acid
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	ca2	Ca2+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	cl	Cl-
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	cobalt2	Co2+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	cu2	Cu2+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	fe2	Fe2+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	fe3	Fe3+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	h2o	H2O
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	h	H+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	k	K+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	mg2	Mg
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	mn2	Mn2+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	mobd	Molybdate
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	na1	Na+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	nh4	Ammonium
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	ni2	Ni2+
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	o2	O2
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	pi	Phosphate
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	so4	Sulfate
+quin_medium	M9 medium containing Quinic Acid as sole carbon source	zn2	Zn2+
+ad_medium	M9 medium containing Acetamide as sole carbon source	ad	Acetamide
+ad_medium	M9 medium containing Acetamide as sole carbon source	ca2	Ca2+
+ad_medium	M9 medium containing Acetamide as sole carbon source	cl	Cl-
+ad_medium	M9 medium containing Acetamide as sole carbon source	cobalt2	Co2+
+ad_medium	M9 medium containing Acetamide as sole carbon source	cu2	Cu2+
+ad_medium	M9 medium containing Acetamide as sole carbon source	fe2	Fe2+
+ad_medium	M9 medium containing Acetamide as sole carbon source	fe3	Fe3+
+ad_medium	M9 medium containing Acetamide as sole carbon source	h2o	H2O
+ad_medium	M9 medium containing Acetamide as sole carbon source	h	H+
+ad_medium	M9 medium containing Acetamide as sole carbon source	k	K+
+ad_medium	M9 medium containing Acetamide as sole carbon source	mg2	Mg
+ad_medium	M9 medium containing Acetamide as sole carbon source	mn2	Mn2+
+ad_medium	M9 medium containing Acetamide as sole carbon source	mobd	Molybdate
+ad_medium	M9 medium containing Acetamide as sole carbon source	na1	Na+
+ad_medium	M9 medium containing Acetamide as sole carbon source	nh4	Ammonium
+ad_medium	M9 medium containing Acetamide as sole carbon source	ni2	Ni2+
+ad_medium	M9 medium containing Acetamide as sole carbon source	o2	O2
+ad_medium	M9 medium containing Acetamide as sole carbon source	pi	Phosphate
+ad_medium	M9 medium containing Acetamide as sole carbon source	so4	Sulfate
+ad_medium	M9 medium containing Acetamide as sole carbon source	zn2	Zn2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	leu__L	L-Leucine
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ca2	Ca2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cl	Cl-
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cobalt2	Co2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	cu2	Cu2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe2	Fe2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	fe3	Fe3+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h2o	H2O
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	h	H+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	k	K+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mg2	Mg
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mn2	Mn2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	mobd	Molybdate
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	na1	Na+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	nh4	Ammonium
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	ni2	Ni2+
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	o2	O2
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	pi	Phosphate
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	so4	Sulfate
+leu__L_medium	M9 medium containing L-Leucine as sole carbon source	zn2	Zn2+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	lys__L	L-Lysine
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	ca2	Ca2+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	cl	Cl-
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	cobalt2	Co2+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	cu2	Cu2+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	fe2	Fe2+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	fe3	Fe3+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	h2o	H2O
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	h	H+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	k	K+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	mg2	Mg
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	mn2	Mn2+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	mobd	Molybdate
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	na1	Na+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	nh4	Ammonium
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	ni2	Ni2+
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	o2	O2
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	pi	Phosphate
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	so4	Sulfate
+lys__L_medium	M9 medium containing L-Lysine as sole carbon source	zn2	Zn2+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	met__L	L-Methionine
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	ca2	Ca2+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	cl	Cl-
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	cobalt2	Co2+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	cu2	Cu2+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	fe2	Fe2+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	fe3	Fe3+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	h2o	H2O
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	h	H+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	k	K+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	mg2	Mg
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	mn2	Mn2+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	mobd	Molybdate
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	na1	Na+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	nh4	Ammonium
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	ni2	Ni2+
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	o2	O2
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	pi	Phosphate
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	so4	Sulfate
+met__L_medium	M9 medium containing L-Methionine as sole carbon source	zn2	Zn2+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	acglu	N-Acetyl-L-Glutamic Acid
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	ca2	Ca2+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	cl	Cl-
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	cobalt2	Co2+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	cu2	Cu2+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	fe2	Fe2+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	fe3	Fe3+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	h2o	H2O
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	h	H+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	k	K+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	mg2	Mg
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	mn2	Mn2+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	mobd	Molybdate
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	na1	Na+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	nh4	Ammonium
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	ni2	Ni2+
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	o2	O2
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	pi	Phosphate
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	so4	Sulfate
+acglu_medium	M9 medium containing N-Acetyl-L-Glutamic Acid as sole carbon source	zn2	Zn2+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	arg__L	L-Arginine
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	ca2	Ca2+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	cl	Cl-
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	cobalt2	Co2+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	cu2	Cu2+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	fe2	Fe2+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	fe3	Fe3+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	h2o	H2O
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	h	H+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	k	K+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	mg2	Mg
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	mn2	Mn2+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	mobd	Molybdate
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	na1	Na+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	nh4	Ammonium
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	ni2	Ni2+
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	o2	O2
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	pi	Phosphate
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	so4	Sulfate
+arg__L_medium	M9 medium containing L-Arginine as sole carbon source	zn2	Zn2+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	his__L	L-Histidine
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	ca2	Ca2+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	cl	Cl-
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	cobalt2	Co2+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	cu2	Cu2+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	fe2	Fe2+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	fe3	Fe3+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	h2o	H2O
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	h	H+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	k	K+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	mg2	Mg
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	mn2	Mn2+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	mobd	Molybdate
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	na1	Na+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	nh4	Ammonium
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	ni2	Ni2+
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	o2	O2
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	pi	Phosphate
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	so4	Sulfate
+his__L_medium	M9 medium containing L-Histidine as sole carbon source	zn2	Zn2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ile__L	L-Isoleucine
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ca2	Ca2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cl	Cl-
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cobalt2	Co2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	cu2	Cu2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe2	Fe2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	fe3	Fe3+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h2o	H2O
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	h	H+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	k	K+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mg2	Mg
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mn2	Mn2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	mobd	Molybdate
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	na1	Na+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	nh4	Ammonium
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	ni2	Ni2+
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	o2	O2
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	pi	Phosphate
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	so4	Sulfate
+ile__L_medium	M9 medium containing L-Isoleucine as sole carbon source	zn2	Zn2+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	orn	L-Ornithine
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	ca2	Ca2+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	cl	Cl-
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	cobalt2	Co2+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	cu2	Cu2+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	fe2	Fe2+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	fe3	Fe3+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	h2o	H2O
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	h	H+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	k	K+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	mg2	Mg
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	mn2	Mn2+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	mobd	Molybdate
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	na1	Na+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	nh4	Ammonium
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	ni2	Ni2+
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	o2	O2
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	pi	Phosphate
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	so4	Sulfate
+orn_medium	M9 medium containing L-Ornithine as sole carbon source	zn2	Zn2+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	phe__L	L-Phenylalanine
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	ca2	Ca2+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	cl	Cl-
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	cobalt2	Co2+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	cu2	Cu2+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	fe2	Fe2+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	fe3	Fe3+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	h2o	H2O
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	h	H+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	k	K+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	mg2	Mg
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	mn2	Mn2+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	mobd	Molybdate
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	na1	Na+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	nh4	Ammonium
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	ni2	Ni2+
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	o2	O2
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	pi	Phosphate
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	so4	Sulfate
+phe__L_medium	M9 medium containing L-Phenylalanine as sole carbon source	zn2	Zn2+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	val__L	L-Valine
+val__L_medium	M9 medium containing L-Valine as sole carbon source	ca2	Ca2+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	cl	Cl-
+val__L_medium	M9 medium containing L-Valine as sole carbon source	cobalt2	Co2+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	cu2	Cu2+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	fe2	Fe2+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	fe3	Fe3+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	h2o	H2O
+val__L_medium	M9 medium containing L-Valine as sole carbon source	h	H+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	k	K+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	mg2	Mg
+val__L_medium	M9 medium containing L-Valine as sole carbon source	mn2	Mn2+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	mobd	Molybdate
+val__L_medium	M9 medium containing L-Valine as sole carbon source	na1	Na+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	nh4	Ammonium
+val__L_medium	M9 medium containing L-Valine as sole carbon source	ni2	Ni2+
+val__L_medium	M9 medium containing L-Valine as sole carbon source	o2	O2
+val__L_medium	M9 medium containing L-Valine as sole carbon source	pi	Phosphate
+val__L_medium	M9 medium containing L-Valine as sole carbon source	so4	Sulfate
+val__L_medium	M9 medium containing L-Valine as sole carbon source	zn2	Zn2+
