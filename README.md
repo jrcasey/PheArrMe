@@ -1,6 +1,6 @@
 # PheArrMe
 
-![](https://github.com/jrcasey/PheArrMe/docs/PinB_FearMe.gif)
+![](docs/PinB_FearMe.gif)
 
 ## Description
 PheArrMe (pronounced: "fear me") automates the workflow from phenotype array data to draft genome-scale metabolic network reconstruction. The script takes raw absorbance time-series data from a platereader, generates a list of sole carbon sources for each strain and sets everything up to run CarveMe to generate draft GEMs for each of your collection of strains. Finally, it generates a summary table for each gapfilled model. 
